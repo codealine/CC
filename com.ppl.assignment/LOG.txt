@@ -1,0 +1,1107 @@
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Annemarie, Boy: Wilford
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Lenna, Boy: Garrett
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Hiba, Boy: Lindsay
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Starla, Boy: Clifford
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Christina, Boy: Roberto
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Danna, Boy: Geoffrey
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Shauna, Boy: Lucien
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Maryanna, Boy: Ferd
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Dinorah, Boy: Benjamin
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Avis, Boy: Raheem
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Jeannine, Boy: Dorian
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Karey, Boy: Wakar
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Oleta, Boy: Rodger
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Coretta, Boy: Tyree
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Jenifer, Boy: Rubenn
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Chanda, Boy: Van
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Caroll, Boy: Alex
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Gennie, Boy: Nathanael
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Lacie, Boy: Roland
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Sharmaine, Boy: Edwin
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Lasandra, Boy: Rupert
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Antonetta, Boy: Sonny
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Regina, Boy: Luis
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Blanch, Boy: Philip
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Geneva, Boy: Paul
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Aliza, Boy: Tyrell
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Chia, Boy: Sanjay
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Ardella, Boy: Harley
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Temple, Boy: Jon
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Genoveva, Boy: Chase
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Sha, Boy: Gerardo
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Hilda, Boy: Perry
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Silvia, Boy: Jordan
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Reita, Boy: Jamail
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Robena, Boy: Andrew
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Renetta, Boy: Beau
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Lucienne, Boy: Casey
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Marguerita, Boy: Federico
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Cari, Boy: Evan
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Deloise, Boy: Lemuel
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Alena, Boy: Samuel
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Dianna, Boy: Cliff
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Kasi, Boy: Saul
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Evon, Boy: Criss
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Kasandra, Boy: Jayant
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Zandra, Boy: Trent
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Angele, Boy: Darryl
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Lahoma, Boy: Sherlock
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Libby, Boy: Lon
+
+Mon Feb 27 03:55:56 2017
+ COMMITMENT  Girl: Valrie, Boy: Marcellus
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Wilford to Annemarie
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Garrett to Lenna
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Cost: 3675, Value: 322
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Cost: 2733, Value: 497, Utility Class: 15, Utility Value: 46
+ Cost: 3185, Value: 221, Utility Class: 21, Utility Value: 10
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+ Cost: 4158, Value: 385, Difficulty: 21, Luxury Rating: 25
+ Cost: 4614, Value: 484, Difficulty: 35, Luxury Rating: 51
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Lindsay to Hiba
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Clifford to Starla
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Cost: 3675, Value: 322
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Cost: 2733, Value: 497, Utility Class: 15, Utility Value: 46
+ Cost: 3185, Value: 221, Utility Class: 21, Utility Value: 10
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+ Cost: 4158, Value: 385, Difficulty: 21, Luxury Rating: 25
+ Cost: 4614, Value: 484, Difficulty: 35, Luxury Rating: 51
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Roberto to Christina
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Cost: 2733, Value: 497, Utility Class: 15, Utility Value: 46
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Geoffrey to Danna
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Lucien to Shauna
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Ferd to Maryanna
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Benjamin to Dinorah
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Raheem to Avis
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Dorian to Jeannine
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Wakar to Karey
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Rodger to Oleta
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Tyree to Coretta
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Rubenn to Jenifer
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Van to Chanda
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Alex to Caroll
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Nathanael to Gennie
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Roland to Lacie
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Edwin to Sharmaine
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Rupert to Lasandra
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Sonny to Antonetta
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Cost: 3675, Value: 322
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Cost: 2733, Value: 497, Utility Class: 15, Utility Value: 46
+ Cost: 3185, Value: 221, Utility Class: 21, Utility Value: 10
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+ Cost: 4158, Value: 385, Difficulty: 21, Luxury Rating: 25
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Luis to Regina
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Philip to Blanch
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Paul to Geneva
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Tyrell to Aliza
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Sanjay to Chia
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Harley to Ardella
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Jon to Temple
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Cost: 3675, Value: 322
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Cost: 2733, Value: 497, Utility Class: 15, Utility Value: 46
+ Cost: 3185, Value: 221, Utility Class: 21, Utility Value: 10
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+ Cost: 4158, Value: 385, Difficulty: 21, Luxury Rating: 25
+ Cost: 4614, Value: 484, Difficulty: 35, Luxury Rating: 51
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Chase to Genoveva
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Gerardo to Sha
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Perry to Hilda
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Jordan to Silvia
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Jamail to Reita
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Andrew to Robena
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Beau to Renetta
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Cost: 3675, Value: 322
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Cost: 2733, Value: 497, Utility Class: 15, Utility Value: 46
+ Cost: 3185, Value: 221, Utility Class: 21, Utility Value: 10
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+ Cost: 4158, Value: 385, Difficulty: 21, Luxury Rating: 25
+ Cost: 4614, Value: 484, Difficulty: 35, Luxury Rating: 51
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Casey to Lucienne
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Federico to Marguerita
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Evan to Cari
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Lemuel to Deloise
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Cost: 3675, Value: 322
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Cost: 2733, Value: 497, Utility Class: 15, Utility Value: 46
+ Cost: 3185, Value: 221, Utility Class: 21, Utility Value: 10
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+ Cost: 4158, Value: 385, Difficulty: 21, Luxury Rating: 25
+ Cost: 4614, Value: 484, Difficulty: 35, Luxury Rating: 51
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Samuel to Alena
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Cliff to Dianna
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Cost: 3675, Value: 322
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Cost: 2733, Value: 497, Utility Class: 15, Utility Value: 46
+ Cost: 3185, Value: 221, Utility Class: 21, Utility Value: 10
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Saul to Kasi
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Criss to Evon
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Cost: 3675, Value: 322
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Cost: 2733, Value: 497, Utility Class: 15, Utility Value: 46
+ Cost: 3185, Value: 221, Utility Class: 21, Utility Value: 10
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+ Cost: 4158, Value: 385, Difficulty: 21, Luxury Rating: 25
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Jayant to Kasandra
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Trent to Zandra
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Darryl to Angele
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Sherlock to Lahoma
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Cost: 3675, Value: 322
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Cost: 2733, Value: 497, Utility Class: 15, Utility Value: 46
+ Cost: 3185, Value: 221, Utility Class: 21, Utility Value: 10
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+ Cost: 4158, Value: 385, Difficulty: 21, Luxury Rating: 25
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Lon to Libby
+
+ Essential: 
+ Cost: 525, Value: 444
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+
+
+Mon Feb 27 03:55:56 2017
+ GIFT : Marcellus to Valrie
+
+ Essential: 
+ Cost: 525, Value: 444
+ Cost: 2156, Value: 419
+ Cost: 2671, Value: 110
+ Utility: 
+ Cost: 453, Value: 693, Utility Class: 38, Utility Value: 26
+ Cost: 1348, Value: 214, Utility Class: 19, Utility Value: 40
+ Cost: 2514, Value: 115, Utility Class: 25, Utility Value: 35
+ Cost: 2733, Value: 497, Utility Class: 15, Utility Value: 46
+ Cost: 3185, Value: 221, Utility Class: 21, Utility Value: 10
+ Luxury: 
+ Cost: 453, Value: 155, Difficulty: 43, Luxury Rating: 22
+ Cost: 882, Value: 996, Difficulty: 53, Luxury Rating: 40
+ Cost: 934, Value: 486, Difficulty: 53, Luxury Rating: 35
+ Cost: 1636, Value: 108, Difficulty: 53, Luxury Rating: 34
+ Cost: 1722, Value: 578, Difficulty: 49, Luxury Rating: 27
+
+
+16 happiest couples: 
+
+Girl: Maryanna, Boy: Ferd      Happiness: 26852
+Girl: Deloise, Boy: Lemuel      Happiness: 26849
+Girl: Valrie, Boy: Marcellus      Happiness: 12334
+Girl: Blanch, Boy: Philip      Happiness: 6982
+Girl: Cari, Boy: Evan      Happiness: 6549
+Girl: Chia, Boy: Sanjay      Happiness: 6491
+Girl: Karey, Boy: Wakar      Happiness: 5908
+Girl: Genoveva, Boy: Chase      Happiness: 5491
+Girl: Aliza, Boy: Tyrell      Happiness: 5271
+Girl: Chanda, Boy: Van      Happiness: 5257
+Girl: Silvia, Boy: Jordan      Happiness: 5194
+Girl: Kasandra, Boy: Jayant      Happiness: 5184
+Girl: Robena, Boy: Andrew      Happiness: 4870
+Girl: Jenifer, Boy: Rubenn      Happiness: 4676
+Girl: Annemarie, Boy: Wilford      Happiness: 4306
+Girl: Geneva, Boy: Paul      Happiness: 3768
+
+16 most compatible couples: 
+
+Girl: Annemarie, Boy: Wilford      Compatibility: 28847
+Girl: Starla, Boy: Clifford      Compatibility: 27237
+Girl: Libby, Boy: Lon      Compatibility: 26893
+Girl: Geneva, Boy: Paul      Compatibility: 26523
+Girl: Karey, Boy: Wakar      Compatibility: 26182
+Girl: Lahoma, Boy: Sherlock      Compatibility: 25784
+Girl: Evon, Boy: Criss      Compatibility: 25479
+Girl: Shauna, Boy: Lucien      Compatibility: 25257
+Girl: Lenna, Boy: Garrett      Compatibility: 25224
+Girl: Danna, Boy: Geoffrey      Compatibility: 25148
+Girl: Reita, Boy: Jamail      Compatibility: 24223
+Girl: Hilda, Boy: Perry      Compatibility: 24209
+Girl: Marguerita, Boy: Federico      Compatibility: 23945
+Girl: Avis, Boy: Raheem      Compatibility: 23654
+Girl: Kasi, Boy: Saul      Compatibility: 23478
+Girl: Cari, Boy: Evan      Compatibility: 23438
+
